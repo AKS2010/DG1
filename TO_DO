@@ -1,0 +1,8 @@
+1. Auhentication API
+    1. Access Token as output, Username and Password as input, Pasword is hashed
+    2. Access token - Email, User Unique ID, Roles, Tenant id, 
+    3. hashed password - Private key in backed and public key for FE usage 
+
+Attributes - Table Module wise
+RBAC Attributes wise
+2. 
